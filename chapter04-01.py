@@ -115,3 +115,4 @@ if tier =='A':
         print('장학금 50%')
 else:
     print('장학금 없음')
+
