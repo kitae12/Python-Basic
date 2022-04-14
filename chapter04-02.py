@@ -124,6 +124,7 @@ for num in numbers:
 else:
     print('Not Found : 55')
 
+print()
 
 for i in range(2, 10):
     for j in range(1, 10):
